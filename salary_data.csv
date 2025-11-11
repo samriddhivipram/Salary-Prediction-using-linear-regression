@@ -1,0 +1,426 @@
+Job_Title,Years_of_Experience,Education_Level,Location,Industry,Salary_INR
+Software Engineer,2,Bachelor,Bangalore,IT,800000
+Senior Software Engineer,5,Bachelor,Bangalore,IT,1500000
+Data Scientist,3,Master,Bangalore,IT,1200000
+Product Manager,6,MBA,Mumbai,IT,2000000
+Frontend Developer,1,Bachelor,Pune,IT,600000
+Backend Developer,4,Bachelor,Hyderabad,IT,1100000
+DevOps Engineer,3,Bachelor,Bangalore,IT,1000000
+Full Stack Developer,5,Bachelor,Bangalore,IT,1400000
+UI/UX Designer,3,Bachelor,Mumbai,IT,900000
+Business Analyst,4,Master,Delhi,Consulting,1000000
+Financial Analyst,3,Bachelor,Mumbai,Finance,850000
+Marketing Manager,7,MBA,Mumbai,Marketing,1800000
+HR Manager,5,Master,Delhi,HR,1200000
+Sales Manager,6,Bachelor,Delhi,Sales,1400000
+Content Writer,2,Bachelor,Bangalore,Marketing,500000
+Graphic Designer,3,Bachelor,Mumbai,Design,650000
+Accountant,4,Bachelor,Delhi,Finance,700000
+Operations Manager,8,MBA,Mumbai,Operations,1900000
+Project Manager,6,Master,Bangalore,IT,1600000
+Data Analyst,2,Bachelor,Bangalore,IT,750000
+Machine Learning Engineer,4,Master,Bangalore,IT,1600000
+Cloud Architect,7,Master,Bangalore,IT,2200000
+Cybersecurity Analyst,5,Master,Hyderabad,IT,1400000
+Network Engineer,4,Bachelor,Pune,IT,950000
+Database Administrator,5,Bachelor,Bangalore,IT,1100000
+QA Engineer,3,Bachelor,Pune,IT,800000
+Technical Writer,2,Bachelor,Bangalore,IT,600000
+Scrum Master,5,Bachelor,Bangalore,IT,1300000
+AI Engineer,4,Master,Bangalore,IT,1700000
+Business Development Manager,6,MBA,Mumbai,Sales,1600000
+Digital Marketing Manager,4,Bachelor,Bangalore,Marketing,1100000
+SEO Specialist,3,Bachelor,Delhi,Marketing,700000
+Social Media Manager,2,Bachelor,Mumbai,Marketing,600000
+Customer Success Manager,4,Bachelor,Bangalore,IT,950000
+Supply Chain Manager,7,MBA,Mumbai,Operations,1700000
+Procurement Manager,6,Bachelor,Delhi,Operations,1300000
+Manufacturing Engineer,5,Bachelor,Pune,Manufacturing,1000000
+Civil Engineer,4,Bachelor,Mumbai,Construction,800000
+Mechanical Engineer,3,Bachelor,Pune,Manufacturing,700000
+Electrical Engineer,5,Bachelor,Bangalore,Manufacturing,900000
+Chemical Engineer,4,Bachelor,Mumbai,Manufacturing,850000
+Architect,6,Master,Delhi,Construction,1200000
+Interior Designer,3,Bachelor,Mumbai,Design,650000
+Chartered Accountant,5,CA,Mumbai,Finance,1400000
+Tax Consultant,6,CA,Delhi,Finance,1300000
+Legal Advisor,5,LLB,Mumbai,Legal,1100000
+Lawyer,7,LLB,Delhi,Legal,1500000
+Doctor,8,MBBS,Mumbai,Healthcare,1800000
+Surgeon,12,MD,Mumbai,Healthcare,3000000
+Nurse,3,Diploma,Delhi,Healthcare,400000
+Pharmacist,4,BPharm,Bangalore,Healthcare,600000
+Medical Representative,2,Bachelor,Mumbai,Pharmaceuticals,500000
+Research Scientist,6,PhD,Bangalore,Research,1400000
+Professor,10,PhD,Delhi,Education,1200000
+Teacher,5,Master,Mumbai,Education,600000
+Principal,15,Master,Delhi,Education,1000000
+Lecturer,4,Master,Bangalore,Education,550000
+Software Engineer,1,Bachelor,Hyderabad,IT,650000
+Senior Software Engineer,7,Master,Bangalore,IT,1800000
+Data Scientist,5,PhD,Bangalore,IT,2000000
+Product Manager,8,MBA,Mumbai,IT,2500000
+Frontend Developer,3,Bachelor,Pune,IT,850000
+Backend Developer,6,Master,Hyderabad,IT,1500000
+DevOps Engineer,5,Bachelor,Bangalore,IT,1300000
+Full Stack Developer,4,Bachelor,Bangalore,IT,1200000
+UI/UX Designer,5,Master,Mumbai,IT,1200000
+Business Analyst,6,MBA,Delhi,Consulting,1500000
+Financial Analyst,5,Master,Mumbai,Finance,1200000
+Marketing Manager,8,MBA,Mumbai,Marketing,2000000
+HR Manager,7,Master,Delhi,HR,1500000
+Sales Manager,8,MBA,Delhi,Sales,1800000
+Content Writer,4,Master,Bangalore,Marketing,700000
+Graphic Designer,5,Bachelor,Mumbai,Design,850000
+Accountant,6,CA,Delhi,Finance,1100000
+Operations Manager,10,MBA,Mumbai,Operations,2200000
+Project Manager,8,Master,Bangalore,IT,2000000
+Data Analyst,4,Master,Bangalore,IT,1100000
+Machine Learning Engineer,6,PhD,Bangalore,IT,2200000
+Cloud Architect,9,Master,Bangalore,IT,2600000
+Cybersecurity Analyst,7,Master,Hyderabad,IT,1800000
+Network Engineer,6,Bachelor,Pune,IT,1200000
+Database Administrator,7,Master,Bangalore,IT,1500000
+QA Engineer,5,Bachelor,Pune,IT,1000000
+Technical Writer,4,Bachelor,Bangalore,IT,750000
+Scrum Master,7,Master,Bangalore,IT,1600000
+AI Engineer,6,PhD,Bangalore,IT,2300000
+Business Development Manager,8,MBA,Mumbai,Sales,2000000
+Digital Marketing Manager,6,Master,Bangalore,Marketing,1400000
+SEO Specialist,5,Bachelor,Delhi,Marketing,900000
+Social Media Manager,4,Bachelor,Mumbai,Marketing,800000
+Customer Success Manager,6,Master,Bangalore,IT,1300000
+Supply Chain Manager,9,MBA,Mumbai,Operations,2000000
+Procurement Manager,8,Bachelor,Delhi,Operations,1600000
+Manufacturing Engineer,7,Master,Pune,Manufacturing,1400000
+Civil Engineer,6,Master,Mumbai,Construction,1200000
+Mechanical Engineer,5,Bachelor,Pune,Manufacturing,950000
+Electrical Engineer,7,Master,Bangalore,Manufacturing,1300000
+Chemical Engineer,6,Master,Mumbai,Manufacturing,1200000
+Architect,8,Master,Delhi,Construction,1600000
+Interior Designer,5,Bachelor,Mumbai,Design,850000
+Chartered Accountant,7,CA,Mumbai,Finance,1800000
+Tax Consultant,8,CA,Delhi,Finance,1700000
+Legal Advisor,7,LLB,Mumbai,Legal,1500000
+Lawyer,9,LLB,Delhi,Legal,1900000
+Doctor,10,MD,Mumbai,Healthcare,2500000
+Surgeon,15,MD,Mumbai,Healthcare,4000000
+Nurse,5,BSc,Delhi,Healthcare,550000
+Pharmacist,6,MPharm,Bangalore,Healthcare,800000
+Medical Representative,4,Bachelor,Mumbai,Pharmaceuticals,700000
+Research Scientist,8,PhD,Bangalore,Research,1800000
+Professor,12,PhD,Delhi,Education,1500000
+Teacher,7,Master,Mumbai,Education,750000
+Principal,18,PhD,Delhi,Education,1400000
+Lecturer,6,Master,Bangalore,Education,700000
+Software Engineer,3,Bachelor,Chennai,IT,950000
+Senior Software Engineer,6,Bachelor,Chennai,IT,1600000
+Data Scientist,4,Master,Delhi,IT,1400000
+Product Manager,5,MBA,Bangalore,IT,1800000
+Frontend Developer,2,Bachelor,Bangalore,IT,750000
+Backend Developer,5,Bachelor,Pune,IT,1200000
+DevOps Engineer,4,Bachelor,Hyderabad,IT,1150000
+Full Stack Developer,6,Master,Bangalore,IT,1600000
+UI/UX Designer,4,Bachelor,Pune,IT,1000000
+Business Analyst,5,Master,Mumbai,Consulting,1300000
+Financial Analyst,4,Bachelor,Delhi,Finance,950000
+Marketing Manager,6,MBA,Delhi,Marketing,1600000
+HR Manager,6,Master,Mumbai,HR,1350000
+Sales Manager,7,Bachelor,Mumbai,Sales,1550000
+Content Writer,3,Bachelor,Delhi,Marketing,600000
+Graphic Designer,4,Bachelor,Pune,Design,750000
+Accountant,5,Bachelor,Mumbai,Finance,850000
+Operations Manager,9,MBA,Delhi,Operations,2100000
+Project Manager,7,Master,Hyderabad,IT,1800000
+Data Analyst,3,Bachelor,Chennai,IT,850000
+Machine Learning Engineer,5,Master,Hyderabad,IT,1800000
+Cloud Architect,8,Master,Hyderabad,IT,2400000
+Cybersecurity Analyst,6,Master,Bangalore,IT,1600000
+Network Engineer,5,Bachelor,Bangalore,IT,1050000
+Database Administrator,6,Bachelor,Chennai,IT,1250000
+QA Engineer,4,Bachelor,Hyderabad,IT,900000
+Technical Writer,3,Bachelor,Pune,IT,650000
+Scrum Master,6,Bachelor,Pune,IT,1400000
+AI Engineer,5,Master,Chennai,IT,1900000
+Business Development Manager,7,MBA,Delhi,Sales,1800000
+Digital Marketing Manager,5,Bachelor,Mumbai,Marketing,1200000
+SEO Specialist,4,Bachelor,Bangalore,Marketing,800000
+Social Media Manager,3,Bachelor,Delhi,Marketing,700000
+Customer Success Manager,5,Bachelor,Pune,IT,1100000
+Supply Chain Manager,8,MBA,Delhi,Operations,1850000
+Procurement Manager,7,Bachelor,Mumbai,Operations,1450000
+Manufacturing Engineer,6,Bachelor,Chennai,Manufacturing,1150000
+Civil Engineer,5,Bachelor,Delhi,Construction,950000
+Mechanical Engineer,4,Bachelor,Bangalore,Manufacturing,800000
+Electrical Engineer,6,Bachelor,Chennai,Manufacturing,1050000
+Chemical Engineer,5,Bachelor,Pune,Manufacturing,950000
+Architect,7,Master,Mumbai,Construction,1400000
+Interior Designer,4,Bachelor,Delhi,Design,750000
+Chartered Accountant,6,CA,Delhi,Finance,1600000
+Tax Consultant,7,CA,Mumbai,Finance,1550000
+Legal Advisor,6,LLB,Delhi,Legal,1300000
+Lawyer,8,LLB,Mumbai,Legal,1700000
+Doctor,9,MBBS,Delhi,Healthcare,2000000
+Surgeon,13,MD,Delhi,Healthcare,3500000
+Nurse,4,Diploma,Mumbai,Healthcare,450000
+Pharmacist,5,BPharm,Delhi,Healthcare,700000
+Medical Representative,3,Bachelor,Bangalore,Pharmaceuticals,600000
+Research Scientist,7,PhD,Hyderabad,Research,1600000
+Professor,11,PhD,Mumbai,Education,1350000
+Teacher,6,Master,Delhi,Education,700000
+Principal,16,Master,Mumbai,Education,1200000
+Lecturer,5,Master,Chennai,Education,600000
+Software Engineer,0,Bachelor,Bangalore,IT,450000
+Junior Developer,1,Bachelor,Pune,IT,550000
+Senior Developer,8,Master,Bangalore,IT,2000000
+Lead Developer,10,Master,Bangalore,IT,2500000
+Tech Lead,9,Master,Mumbai,IT,2300000
+Engineering Manager,11,Master,Bangalore,IT,2800000
+VP Engineering,15,Master,Bangalore,IT,4000000
+CTO,18,Master,Mumbai,IT,5500000
+Data Scientist,2,Master,Pune,IT,1000000
+Senior Data Scientist,7,PhD,Bangalore,IT,2400000
+Principal Data Scientist,10,PhD,Bangalore,IT,3200000
+Data Engineer,3,Bachelor,Bangalore,IT,1050000
+Senior Data Engineer,6,Master,Bangalore,IT,1800000
+Analytics Manager,8,Master,Mumbai,Analytics,2000000
+Product Manager,4,MBA,Bangalore,IT,1600000
+Senior Product Manager,9,MBA,Mumbai,IT,2700000
+Director of Product,12,MBA,Mumbai,IT,3500000
+Frontend Developer,4,Bachelor,Bangalore,IT,1000000
+Senior Frontend Developer,7,Master,Bangalore,IT,1700000
+Backend Developer,3,Bachelor,Bangalore,IT,950000
+Senior Backend Developer,8,Master,Bangalore,IT,1900000
+Mobile Developer,3,Bachelor,Bangalore,IT,1000000
+Senior Mobile Developer,6,Bachelor,Bangalore,IT,1600000
+iOS Developer,4,Bachelor,Mumbai,IT,1100000
+Android Developer,4,Bachelor,Bangalore,IT,1050000
+DevOps Engineer,2,Bachelor,Bangalore,IT,850000
+Senior DevOps Engineer,6,Master,Bangalore,IT,1700000
+Site Reliability Engineer,5,Bachelor,Bangalore,IT,1500000
+Full Stack Developer,3,Bachelor,Hyderabad,IT,1050000
+Senior Full Stack Developer,7,Master,Bangalore,IT,1850000
+UI Designer,2,Bachelor,Mumbai,IT,700000
+UX Designer,3,Bachelor,Bangalore,IT,850000
+Senior UI/UX Designer,6,Master,Mumbai,IT,1500000
+Design Lead,8,Master,Mumbai,Design,1900000
+Business Analyst,3,Bachelor,Pune,IT,850000
+Senior Business Analyst,7,MBA,Mumbai,Consulting,1700000
+System Analyst,5,Bachelor,Bangalore,IT,1200000
+Financial Analyst,2,Bachelor,Mumbai,Finance,700000
+Senior Financial Analyst,6,CA,Mumbai,Finance,1500000
+Investment Analyst,4,MBA,Mumbai,Finance,1300000
+Marketing Manager,5,Bachelor,Delhi,Marketing,1250000
+Senior Marketing Manager,9,MBA,Mumbai,Marketing,2200000
+Brand Manager,6,MBA,Mumbai,Marketing,1600000
+Growth Manager,5,Master,Bangalore,IT,1450000
+HR Manager,4,Master,Mumbai,HR,1050000
+Senior HR Manager,8,MBA,Mumbai,HR,1800000
+Talent Acquisition Manager,5,Bachelor,Bangalore,HR,1200000
+Recruitment Manager,6,Master,Delhi,HR,1350000
+Sales Manager,5,Bachelor,Mumbai,Sales,1300000
+Senior Sales Manager,9,MBA,Mumbai,Sales,2100000
+Account Manager,4,Bachelor,Delhi,Sales,1000000
+Regional Sales Manager,8,MBA,Mumbai,Sales,1900000
+Content Writer,1,Bachelor,Bangalore,Marketing,400000
+Senior Content Writer,5,Master,Bangalore,Marketing,900000
+Copy Writer,3,Bachelor,Mumbai,Marketing,650000
+Content Strategist,6,Master,Mumbai,Marketing,1400000
+Graphic Designer,2,Bachelor,Bangalore,Design,550000
+Senior Graphic Designer,6,Bachelor,Mumbai,Design,1100000
+Visual Designer,4,Bachelor,Pune,Design,800000
+Creative Director,10,Master,Mumbai,Design,2400000
+Accountant,3,Bachelor,Delhi,Finance,650000
+Senior Accountant,7,CA,Mumbai,Finance,1400000
+Finance Manager,8,CA,Mumbai,Finance,1800000
+Chief Financial Officer,15,CA,Mumbai,Finance,4500000
+Operations Manager,7,MBA,Mumbai,Operations,1700000
+Senior Operations Manager,11,MBA,Mumbai,Operations,2500000
+Operations Director,14,MBA,Mumbai,Operations,3200000
+Project Manager,5,Master,Bangalore,IT,1450000
+Senior Project Manager,9,Master,Bangalore,IT,2200000
+Program Manager,11,MBA,Mumbai,IT,2800000
+Portfolio Manager,13,MBA,Mumbai,Finance,3300000
+Data Analyst,1,Bachelor,Bangalore,IT,600000
+Senior Data Analyst,6,Master,Bangalore,IT,1500000
+Machine Learning Engineer,3,Master,Bangalore,IT,1400000
+Senior ML Engineer,8,PhD,Bangalore,IT,2600000
+AI Researcher,6,PhD,Bangalore,Research,2200000
+Cloud Architect,6,Master,Bangalore,IT,2000000
+Solutions Architect,8,Master,Bangalore,IT,2300000
+Enterprise Architect,12,Master,Mumbai,IT,3200000
+Cybersecurity Analyst,4,Master,Bangalore,IT,1200000
+Security Engineer,6,Master,Bangalore,IT,1650000
+Network Engineer,3,Bachelor,Pune,IT,850000
+Senior Network Engineer,7,Master,Pune,IT,1550000
+Database Administrator,4,Bachelor,Bangalore,IT,1000000
+Senior DBA,8,Master,Bangalore,IT,1800000
+QA Engineer,2,Bachelor,Pune,IT,700000
+Senior QA Engineer,6,Bachelor,Pune,IT,1250000
+Test Lead,8,Master,Pune,IT,1700000
+QA Manager,10,Master,Pune,IT,2100000
+Technical Writer,1,Bachelor,Bangalore,IT,500000
+Senior Technical Writer,5,Master,Bangalore,IT,950000
+Documentation Manager,8,Master,Bangalore,IT,1600000
+Scrum Master,4,Bachelor,Bangalore,IT,1150000
+Agile Coach,8,Master,Bangalore,IT,2000000
+AI Engineer,3,Master,Bangalore,IT,1500000
+Senior AI Engineer,7,PhD,Bangalore,IT,2500000
+Business Development Manager,5,MBA,Mumbai,Sales,1500000
+Senior BD Manager,9,MBA,Mumbai,Sales,2300000
+VP Sales,13,MBA,Mumbai,Sales,3800000
+Digital Marketing Manager,3,Bachelor,Bangalore,Marketing,950000
+Senior Digital Marketing Manager,7,Master,Bangalore,Marketing,1700000
+SEO Specialist,2,Bachelor,Delhi,Marketing,600000
+SEO Manager,6,Master,Delhi,Marketing,1300000
+Social Media Manager,1,Bachelor,Mumbai,Marketing,500000
+Social Media Lead,5,Bachelor,Mumbai,Marketing,1100000
+Customer Success Manager,3,Bachelor,Bangalore,IT,900000
+Senior Customer Success Manager,7,Master,Bangalore,IT,1650000
+Customer Support Lead,5,Bachelor,Bangalore,IT,1100000
+Supply Chain Manager,6,MBA,Mumbai,Operations,1600000
+Logistics Manager,7,MBA,Delhi,Operations,1550000
+Procurement Manager,5,Bachelor,Delhi,Operations,1200000
+Senior Procurement Manager,9,MBA,Mumbai,Operations,1950000
+Manufacturing Engineer,4,Bachelor,Pune,Manufacturing,900000
+Production Manager,8,Master,Pune,Manufacturing,1700000
+Quality Manager,7,Master,Pune,Manufacturing,1500000
+Civil Engineer,3,Bachelor,Mumbai,Construction,700000
+Senior Civil Engineer,8,Master,Mumbai,Construction,1550000
+Construction Manager,10,Master,Delhi,Construction,2100000
+Mechanical Engineer,2,Bachelor,Pune,Manufacturing,650000
+Senior Mechanical Engineer,7,Master,Pune,Manufacturing,1400000
+Electrical Engineer,4,Bachelor,Bangalore,Manufacturing,850000
+Senior Electrical Engineer,8,Master,Bangalore,Manufacturing,1600000
+Chemical Engineer,3,Bachelor,Mumbai,Manufacturing,750000
+Senior Chemical Engineer,7,Master,Mumbai,Manufacturing,1450000
+Process Engineer,5,Master,Pune,Manufacturing,1100000
+Architect,5,Master,Delhi,Construction,1100000
+Senior Architect,10,Master,Mumbai,Construction,2000000
+Urban Planner,6,Master,Delhi,Construction,1300000
+Interior Designer,2,Bachelor,Mumbai,Design,600000
+Senior Interior Designer,6,Master,Mumbai,Design,1300000
+Chartered Accountant,4,CA,Mumbai,Finance,1200000
+Senior CA,9,CA,Mumbai,Finance,2200000
+Tax Consultant,5,CA,Delhi,Finance,1200000
+Audit Manager,8,CA,Mumbai,Finance,1900000
+Legal Advisor,4,LLB,Mumbai,Legal,1000000
+Senior Legal Advisor,8,LLB,Mumbai,Legal,1800000
+Corporate Lawyer,10,LLB,Mumbai,Legal,2400000
+Lawyer,6,LLB,Delhi,Legal,1400000
+General Practitioner,6,MBBS,Mumbai,Healthcare,1200000
+Specialist Doctor,10,MD,Mumbai,Healthcare,2200000
+Consultant Doctor,12,MD,Mumbai,Healthcare,2800000
+Surgeon,10,MD,Mumbai,Healthcare,2600000
+Senior Surgeon,17,MD,Mumbai,Healthcare,4500000
+Nurse,2,Diploma,Delhi,Healthcare,350000
+Senior Nurse,7,BSc,Mumbai,Healthcare,650000
+Nursing Supervisor,10,BSc,Delhi,Healthcare,900000
+Pharmacist,3,BPharm,Bangalore,Healthcare,550000
+Senior Pharmacist,8,MPharm,Mumbai,Healthcare,1100000
+Medical Representative,1,Bachelor,Mumbai,Pharmaceuticals,450000
+Senior Medical Rep,5,Bachelor,Mumbai,Pharmaceuticals,900000
+Area Sales Manager,7,MBA,Mumbai,Pharmaceuticals,1600000
+Research Scientist,5,PhD,Bangalore,Research,1200000
+Senior Research Scientist,10,PhD,Bangalore,Research,2300000
+Research Director,15,PhD,Bangalore,Research,3500000
+Professor,9,PhD,Delhi,Education,1100000
+Associate Professor,13,PhD,Mumbai,Education,1600000
+Assistant Professor,7,PhD,Bangalore,Education,950000
+Teacher,4,Master,Mumbai,Education,550000
+Senior Teacher,9,Master,Delhi,Education,850000
+Vice Principal,12,Master,Mumbai,Education,1100000
+Principal,14,Master,Delhi,Education,1300000
+Lecturer,3,Master,Bangalore,Education,500000
+Senior Lecturer,8,PhD,Mumbai,Education,950000
+Training Manager,6,Master,Bangalore,Training,1300000
+Corporate Trainer,4,Master,Mumbai,Training,900000
+Consultant,5,MBA,Mumbai,Consulting,1400000
+Senior Consultant,9,MBA,Mumbai,Consulting,2300000
+Management Consultant,8,MBA,Delhi,Consulting,2000000
+Strategy Consultant,10,MBA,Mumbai,Consulting,2800000
+IT Consultant,6,Master,Bangalore,IT,1500000
+Business Consultant,7,MBA,Delhi,Consulting,1750000
+Risk Manager,8,MBA,Mumbai,Finance,1900000
+Compliance Manager,7,Master,Mumbai,Finance,1650000
+Internal Auditor,5,CA,Mumbai,Finance,1250000
+External Auditor,6,CA,Delhi,Finance,1400000
+Insurance Agent,3,Bachelor,Mumbai,Insurance,600000
+Insurance Manager,8,MBA,Mumbai,Insurance,1700000
+Underwriter,5,Bachelor,Delhi,Insurance,1100000
+Claims Manager,7,Master,Mumbai,Insurance,1550000
+Real Estate Agent,4,Bachelor,Mumbai,Real Estate,800000
+Property Manager,6,Master,Delhi,Real Estate,1400000
+Architect Consultant,9,Master,Mumbai,Construction,1900000
+Quantity Surveyor,5,Bachelor,Delhi,Construction,1000000
+Site Engineer,3,Bachelor,Pune,Construction,700000
+Safety Officer,4,Bachelor,Mumbai,Construction,750000
+Environmental Engineer,5,Master,Bangalore,Environment,1100000
+Sustainability Manager,7,MBA,Mumbai,Environment,1600000
+Hotel Manager,8,MBA,Mumbai,Hospitality,1650000
+Restaurant Manager,5,Bachelor,Delhi,Hospitality,950000
+Chef,6,Diploma,Mumbai,Hospitality,800000
+Executive Chef,10,Bachelor,Mumbai,Hospitality,1500000
+Event Manager,4,Bachelor,Mumbai,Events,850000
+Wedding Planner,3,Bachelor,Delhi,Events,650000
+Travel Consultant,2,Bachelor,Bangalore,Travel,500000
+Tour Manager,5,Bachelor,Mumbai,Travel,900000
+Airline Pilot,10,Bachelor,Mumbai,Aviation,3500000
+Flight Attendant,3,Diploma,Mumbai,Aviation,600000
+Air Traffic Controller,6,Bachelor,Delhi,Aviation,1400000
+Logistics Coordinator,3,Bachelor,Mumbai,Logistics,650000
+Warehouse Manager,6,Bachelor,Delhi,Logistics,1200000
+Import Export Manager,7,MBA,Mumbai,Logistics,1650000
+Retail Manager,5,Bachelor,Mumbai,Retail,1000000
+Store Manager,4,Bachelor,Delhi,Retail,800000
+Visual Merchandiser,3,Bachelor,Mumbai,Retail,650000
+E-commerce Manager,6,Master,Bangalore,Retail,1450000
+Category Manager,7,MBA,Mumbai,Retail,1700000
+Buyer,4,Bachelor,Mumbai,Retail,900000
+Fashion Designer,5,Bachelor,Mumbai,Fashion,950000
+Textile Designer,4,Bachelor,Delhi,Fashion,750000
+Merchandiser,3,Bachelor,Mumbai,Fashion,700000
+Production Manager,7,Master,Delhi,Fashion,1500000
+Photographer,4,Bachelor,Mumbai,Media,750000
+Video Editor,3,Bachelor,Bangalore,Media,700000
+Film Director,10,Bachelor,Mumbai,Media,2500000
+Cinematographer,8,Bachelor,Mumbai,Media,1600000
+Sound Engineer,5,Bachelor,Mumbai,Media,900000
+News Reporter,4,Bachelor,Delhi,Media,700000
+News Anchor,6,Master,Mumbai,Media,1400000
+Editor,7,Master,Delhi,Media,1200000
+Journalist,5,Bachelor,Mumbai,Media,850000
+Public Relations Manager,6,MBA,Mumbai,PR,1400000
+Communications Manager,7,Master,Delhi,Communications,1500000
+Social Worker,4,Master,Mumbai,Social Services,550000
+NGO Manager,8,Master,Delhi,Social Services,900000
+Fundraising Manager,6,MBA,Mumbai,Non-profit,1200000
+Program Coordinator,3,Master,Bangalore,Non-profit,650000
+Research Associate,2,Master,Bangalore,Research,700000
+Lab Technician,3,Bachelor,Mumbai,Healthcare,500000
+Radiologist,10,MD,Mumbai,Healthcare,2800000
+Pathologist,9,MD,Delhi,Healthcare,2400000
+Physiotherapist,4,Bachelor,Mumbai,Healthcare,700000
+Dietitian,3,Bachelor,Delhi,Healthcare,550000
+Psychologist,6,Master,Mumbai,Healthcare,1100000
+Psychiatrist,11,MD,Mumbai,Healthcare,2600000
+Dentist,7,BDS,Mumbai,Healthcare,1500000
+Veterinarian,6,BVSc,Pune,Healthcare,1100000
+Biomedical Engineer,4,Master,Bangalore,Healthcare,1000000
+Clinical Research Associate,3,Master,Mumbai,Pharmaceuticals,850000
+Regulatory Affairs Manager,7,Master,Mumbai,Pharmaceuticals,1650000
+Patent Attorney,9,LLB,Mumbai,Legal,2200000
+Intellectual Property Manager,8,Master,Bangalore,Legal,1900000
+Paralegal,3,Bachelor,Mumbai,Legal,600000
+Legal Secretary,4,Bachelor,Delhi,Legal,550000
+Court Reporter,5,Bachelor,Delhi,Legal,700000
+Mediator,8,LLB,Mumbai,Legal,1600000
+Judge,20,LLB,Delhi,Legal,4000000
+Software Engineer,4,Master,Bangalore,IT,1300000
+Senior Software Engineer,9,Master,Bangalore,IT,2100000
+Data Scientist,6,PhD,Bangalore,IT,2100000
+Product Manager,7,MBA,Mumbai,IT,2200000
+Frontend Developer,5,Master,Pune,IT,1250000
+Backend Developer,7,Master,Hyderabad,IT,1650000
+DevOps Engineer,6,Master,Bangalore,IT,1600000
+Full Stack Developer,8,Master,Bangalore,IT,1950000
